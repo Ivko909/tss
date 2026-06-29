@@ -1,18 +1,26 @@
 {
     "name": "tss",
     "displayName": "TSS Syntax Highlighting",
-    "description": "Transformation Style Sheets - Revolutionising PHP templating ",
+    "description": "Transformation Style Sheets - Revolutionising PHP templating",
     "repository": {
         "type": "git",
-        "url": "https://github.com/IamSAB/tss"
+        "url": "https://github.com/Ivko909/tss"
     },
-    "version": "0.0.2",
-    "publisher": "sab",
+    "version": "0.0.3",
+    "publisher": "Ivko909",
     "engines": {
-        "vscode": "^1.33.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Programming Languages"
+    ],
+    "keywords": [
+        "tss",
+        "transphporm",
+        "php",
+        "templating",
+        "syntax",
+        "highlighting"
     ],
     "contributes": {
         "languages": [
